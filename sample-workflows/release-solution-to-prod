@@ -33,9 +33,9 @@ on:
 
 env:
 #edit your values here
-  BUILD_ENVIRONMENT_URL: <BUILDENVIRONMENTURL>
-  PRODUCTION_ENVIRONMENT_URL: <PRODENVIRONMENTURL>
-  USERNAME: <USERNAME>
+  BUILD_ENVIRONMENT_URL: "https://orgebadee03.crm.dynamics.com/"
+  PRODUCTION_ENVIRONMENT_URL: "https://orgebadee03.crm.dynamics.com/"
+  USERNAME: "jorgefdezsa@4rz2k2.onmicrosoft.com"
 
 jobs:
   convert-to-managed:
